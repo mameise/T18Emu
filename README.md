@@ -15,3 +15,5 @@ Has still some testing settings inside, as said: early stage...
 If you are not happy with the gameplay and performance always remember: nobody forces you to use it. Again: early stage and far away from a finished product. If you expect a perfect app you might be wrong here.
 
 For now only publishing the apk. Source code will follow when it is a bit more polished. 
+
+No rom is provided in the emulator. Bring your own rom dump and import it in the settings. I will not support with finding roms. And only use rom dumps you made from your original device. 
